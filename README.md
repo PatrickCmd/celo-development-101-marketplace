@@ -40,3 +40,7 @@ npm run dev
 ### Build
 ```
 npm run build
+```
+
+## Live Sit
+The site is live at Github Pages [here](https://patrickcmd.github.io/celo-development-101-marketplace/)
